@@ -1,0 +1,12 @@
+Tadeo;330000;30
+Enzo;125000;30
+Geronimo;370000;30
+Bautista;270000;90
+Zoe Gotusso;900000;90
+Louta;85000;90
+Cardellino;70000;45
+Dua Lipa;550000;45
+Taylor Swift;250000;45
+Iorio;300000;60
+Silvestre y la Naranja;500000;60
+Coldplay;100000;60
